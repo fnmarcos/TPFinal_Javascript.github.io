@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "65495208e8c2f0a3bd92d96a"
+  },
+  "mensajes": [
+    {
+      "participante": "FABIANSEN",
+      "contenido": "Excelente cobertura, felicitaciones y esperamos más novedades",
+      "_id": {
+        "$oid": "654cfb5c4801f224a02ae7b1"
+      }
+    },
+    {
+      "participante": "GP",
+      "contenido": "Muy buen trabajo, complimenti",
+      "_id": {
+        "$oid": "654cfeb5fc313a4c7ee82748"
+      }
+    },
+    {
+      "participante": "KAISERSOZE",
+      "contenido": "Lo mejor, la foto de portada!, buena cobertura!.",
+      "_id": {
+        "$oid": "654d0184cabf7b70cdd31aaa"
+      }
+    },
+    {
+      "participante": "MEB110481",
+      "contenido": "Envidia pura poder ir al EICMA, disfruten!",
+      "_id": {
+        "$oid": "654d0199cabf7b70cdd31aac"
+      }
+    },
+    {
+      "participante": "FERPA",
+      "contenido": "Me encanto la CF MT 450. Esperemos tenerla como opción muy pronto por estos pagos",
+      "_id": {
+        "$oid": "654d01decabf7b70cdd31ac4"
+      }
+    },
+    {
+      "participante": "GP",
+      "contenido": "Cómo extraño la EICMA!",
+      "_id": {
+        "$oid": "654d02c6cabf7b70cdd31ad9"
+      }
+    },
+    {
+      "participante": "Marcos",
+      "contenido": "Muy buena nota",
+      "_id": {
+        "$oid": "654d02c8cabf7b70cdd31ae2"
+      }
+    },
+    {
+      "participante": "Marcos",
+      "contenido": "19:04",
+      "_id": {
+        "$oid": "654ea8da394f4cd23008d87e"
+      }
+    }
+  ],
+  "titulo": "EICMA 2023: Salón de motos más importante del planeta",
+  "autor": "Marcos"
+},
+{
+  "_id": {
+    "$oid": "65495208e8c2f0a3bd92d98a"
+  },
+  "mensajes": [
+    {
+      "contenido": "Ese incremento como dice el articulo es claramente por lo que fue el inicio del mes. Ahora, despues de elecciones y coso la movida es otra. Ayer un amigo llamo a Yumahk y no quieren vender ni Yamaha ni Honda de momento por especulacion seguro.",
+      "participante": "AKHENATON"
+    },
+    {
+      "contenido": "en cuanto a lo de inflacion importaciones, etc….hasta que no liberen la aduana y digan que cualquiera puede importar va a ser imposible, porque es parte del tongo, tanto del importador ocmo de todos los que estan en la aduana para liberar esas cosas",
+      "participante": "LUIGIO"
+    },
+    {
+      "contenido": "GSX125R el 3,3% de la Gaucha.. no entiendo los números de Suzuki en argentina como dejaron caer tanto el mercado que tenían y era bueno..",
+      "participante": "KAISERSOZE"
+    }
+  ],
+  "titulo": "Así fueron las ventas de motos en octubre de 2023",
+  "autor": "Juan"
+},
+{
+  "_id": {
+    "$oid": "654a5013e8c2f0a3bd92d971"
+  },
+  "mensajes": [
+    {
+      "participante": "AFRICANO",
+      "contenido": "Sí es así como lo cuentan,54 mil km sin otra cosa que cubiertas, transmisión y alguna batería……es porque el producto es bueno. Y el conductor también. Para el motor es normal. Pero habla muy bien de la parte eléctrica , suspensiones rodamientos, chasis , embrague…etc"
+    },
+    {
+      "participante": "JORGE SBK",
+      "contenido": "Parece que se la moto se lo bancó lo mas bien al viaje de 54000 km. Si fué así habla muy bien del producto ( y de los conductores). Un promedio de poco mas de 100km todos los dias, muy bien."
+    },
+    {
+      "participante": "MOTOGON",
+      "contenido": "Es una moto que sale una fraccion de lo que sale una de 1ra marca, y el que la compra no la compra para cruzar el desierto del sahara, la compra para hacer viajes parecidos a estos (incluso mas cortos), pero que lamentablemente no llega a comprarse una versys. Teniendo eso en cuenta el producto cumple sobrado."
+    }
+  ],
+  "titulo": "54.000 kilómetros al rescate de la RVM Tekken 300",
+  "autor": "Marcos"
+},
+{
+  "_id": {
+    "$oid": "654d0396cf68cb121eeaf89f"
+  },
+  "mensajes": [
+    {
+      "participante": "JJM",
+      "contenido": "No todo es mejora, dos de las características que ponen como “negativas” son retrocesos respecto de la versión anterior: los cubrepuños y la posición de la tecla de la bocina…"
+    },
+    {
+      "participante": "Marcos",
+      "contenido": " Es un montón para una moto de sus características, precio y cilindrada en nuestro mercado. Pero bien lo ha dicho un empresario en tiempos de pandemia: más importante que el precio de una moto es el acceso a ella"
+    },
+    {
+      "participante": "SALAMANDRA",
+      "contenido": "Dentro de los faltantes, el caballete central!!!!! Saludos desde Uruguay."
+    },
+    {
+      "participante": "Marcos",
+      "contenido": "CFMOTO 650MT",
+      "_id": {
+        "$oid": "654d886f8f994abf88701257"
+      }
+    }
+  ],
+  "titulo": "Motoblog Cotidiano: CFMOTO 650MT",
+  "autor": "Marcos"
+}]

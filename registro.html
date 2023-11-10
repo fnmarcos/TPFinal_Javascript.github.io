@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página de Registro</title>
+  <!-- Incluye la hoja de estilo de Bootstrap -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./css/style.css">
+
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row justify-content-center mt-5">
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-header text-center">Regístro</div>
+          <div class="card-body">
+            <!-- Mensaje de respuesta -->
+            <div class="alert alert-success" id="mensajeRespuesta" style="display: none;">
+              Registro exitoso. ¡Ahora puedes acceder!
+            </div>
+            <div class="alert alert-danger" id="mensajeError" style="display: none;">
+              Error: Algo salió mal en el registro.
+            </div>
+            <form id="formularioRegistro">
+              <div class="form-group">
+                <label for="nombre">Nombre</label>
+                <input type="text" class="form-control" id="nombreUsuario" name="nombreUsuario"
+                  placeholder="Nombre usuario">
+              </div>
+              <div class="form-group">
+                <label for="correo">Correo Electrónico</label>
+                <input type="email" class="form-control" id="correoElectronico" name="correoElectronico"
+                  placeholder="Correo electrónico">
+              </div>
+              <div class="form-group">
+                <label for="contrasena">Contraseña</label>
+                <input type="password" class="form-control" id="contrasena" name="contrasena" placeholder="Contraseña">
+              </div>
+              <button type="submit" class="btn btn-primary">Registrarse</button>
+            </form>
+          </div>
+          <div class="card-footer">
+            <p>¿Ya tienes una cuenta? <a href="login.html">Acceder aquí</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"></script>
+  <script src="./js/javascript.js"></script>
+
+</body>
+
+</html>

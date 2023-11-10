@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "654cd5e1582cd4538f96d3e4"
+  },
+  "nombreUsuario": "Marcos",
+  "correoElectronico": "marcos_fernandez97@hotmail.com",
+  "contrasena": "1234",
+  "__v": 0
+}]
